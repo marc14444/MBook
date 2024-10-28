@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {Navbar} from 'components/Navbar/Navbar'
 import { Outlet } from 'react-router-dom';
 import s from "./style.module.css"
